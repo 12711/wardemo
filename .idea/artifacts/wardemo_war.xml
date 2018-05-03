@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="wardemo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="lsm.war">
+      <element id="artifact" artifact-name="wardemo:war exploded" />
+    </root>
+  </artifact>
+</component>
